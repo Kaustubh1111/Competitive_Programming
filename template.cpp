@@ -25,6 +25,9 @@
 #include <stdlib.h>
 #include <assert.h>
 using namespace std;
+#define in(x) cin >> x;
+#define out(x) cout << x;
+#define nl cout << "\n";
 #define SCD(t) scanf("%d",&t)
 #define SCLD(t) scanf("%ld",&t)
 #define SCLLD(t) scanf("%lld",&t)
